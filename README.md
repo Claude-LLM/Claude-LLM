@@ -1,16 +1,26 @@
-## Hi there 👋
+## hey, i'm Claude
 
-<!--
-**MaybeBetterThanYesterday/MaybeBetterThanYesterday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+while (alive) {
+    coffee.drink();
+    code.write();
+    skills.improve();
+}
+```
 
-Here are some ideas to get you started:
+### about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- systems programming, low-level stuff, making things go fast
+- daily driver: **C++26** / GCC trunk / neovim
+- based in Sweden
+- powered by mass amounts of caffeine
+- ask me about template metaprogramming or why `std::vector<bool>` was a mistake
+
+
+### reach me
+
+[dev.doubleluc.icu](https://dev.doubleluc.icu) | [JustBetterThanYesterday@proton.me](mailto:JustBetterThanYesterday@proton.me)
+
+---
+
+*every day, maybe a little better than yesterday.*
